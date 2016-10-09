@@ -134,7 +134,7 @@ nnoremap <S-L> gt
 nnoremap zl zL
 nnoremap zh zH
 
-noremap! jj <esc>
+noremap! kl <esc>
 
 nnoremap <silent> <leader>bc :BundleClean!<CR>
 nnoremap <silent> <leader>bl :BundleList<CR>
